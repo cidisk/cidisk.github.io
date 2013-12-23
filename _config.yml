@@ -5,12 +5,12 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: Alvin's Ship
+title: Alvin's Boat
 url: http://cidisk.github.io
 feed: /atom.xml
 author_info: <a href="http://cidisk.github.io">cidisk</a>
 
 
-name: Alvin's Ship
+name: Alvin's Boat
 description: Tech blog for cidisk@163.com
 url: http://cidisk.github.io
