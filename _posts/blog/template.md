@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 存在感
-description: 存在感对于每个人的生活有多么的重要，可能平时并不是太关注，其实他就是生活的全部
+title: Alvin Said
+description: 每一天都是新的开始，没一个新的开始意味着又少了一次新开始的机会。
 category: blog
 ---
 
@@ -9,4 +9,4 @@ category: blog
 
 
 
-[BeiYuu]:    http://beiyuu.com  "BeiYuu"
+[Alvin]:    http://hadoop.cf  "Alvin"
