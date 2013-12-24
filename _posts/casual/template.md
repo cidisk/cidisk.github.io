@@ -5,7 +5,7 @@ category: casual
 description: 总会有那些突然而来的，临时的东西。
 ---
 # [{{ page.title }}][1]
-2012-01-16 By {{ site.author_info }}
+2013-04-26 By {{ site.author_info }}
 
 
 [Alvin]:    http://hadoop.cf  "Alvin"
