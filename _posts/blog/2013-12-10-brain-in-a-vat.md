@@ -1,11 +1,9 @@
 ---
 layout: post
-title: 缸中之脑
+title: 缸中的大脑（Brain in a Vat）
 description: 1981年，希拉里·普特南（Hilary Putnam）在他的《理性，真理和历史》（Reason, Truth, and History）一书中，阐述了关于“缸中之脑”的假想。本文转载自本人百度空间，做了少许修改，将对这个问题做些许探讨。
 category: blog
 ---
-
-##缸中的大脑（Brain in a Vat）
 
 ####引子
 
