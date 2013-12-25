@@ -2,7 +2,7 @@
 layout:post
 title:高中生
 category:casual
-description:地铁上的偶遇总是勾起回忆.
+description:地铁上的偶遇总是勾起回忆。
 ---
   
 在地铁上听见身边的高中生兴高采烈的讨论着去哪里玩，一个女生，两个男生，三个小伙伴，那么亲密无间的三个人。
