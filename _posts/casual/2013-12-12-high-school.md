@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:高中生
+title: 高中生
 category: casual
 description: 地铁上的偶遇总是勾起回忆
 ---
