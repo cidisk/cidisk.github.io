@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 高中生
-category: casual
+category: accidental
 description: 地铁上的偶遇总是勾起回忆。
 ---
   

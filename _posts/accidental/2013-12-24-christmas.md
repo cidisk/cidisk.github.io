@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christmas
-category: casual
+category: accidental
 description: 在京的首个圣诞。
 ---
 
