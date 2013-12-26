@@ -1,7 +1,7 @@
 ---
 layout: post
 title:随时的记录 
-category: casual
+category: accidental
 description: 总会有那些突然而来的，临时的东西。
 ---
 # [{{ page.title }}][1]
