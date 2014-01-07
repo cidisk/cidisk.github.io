@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 使用apache-commons httpclient 4.3.X访问https安全认证链接
+title: 使用Apache Commons中Httpclient 4.3.X访问https安全认证链接
 description: 需要使用httpclient访问一些需要认证的HTTPS安全链接，却发现网上基本都是在者需要手工安装证书的实现或者是基于Httpclient 3.X老版本的无需认证实现。本文将对https连接进行介绍，并给出使用httpclient 4.3.X的通用无需证书代码实现。
 category: blog
 published: true
