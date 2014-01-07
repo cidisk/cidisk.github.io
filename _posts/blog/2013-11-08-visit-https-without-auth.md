@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 使用apache-commons httpclient 4.3.X访问https安全认证链接
+title: "使用apache-commons httpclient 4.3.X访问https安全认证链接"
 description: 需要使用httpclient访问一些需要证书的安全链接，却发现网上基本都是在老的3.X版本的httpclient上的实现。
 category: blog
+published: true
 ---
 
 占位编辑 
@@ -39,7 +40,7 @@ category: blog
 	public class HttpsTest {
 		public static void main(String[] args) throws Exception {
 		
-			String url = "http://isp.housingauthority.gov.hk/ispWeb/?locale=zh_HK";
+			String url = "https://isp.housingauthority.gov.hk/ispWeb/?locale=zh_HK";
 		
 			X509TrustManager tm = new X509TrustManager() {
 				public void checkClientTrusted(X509Certificate[] xcs, String string) {
@@ -79,9 +80,6 @@ category: blog
 					socketFactoryRegistry);
 			HttpClient httpClient = HttpClients.custom()
 					.setConnectionManager(connManager)
-					// .setDefaultCookieStore(cookieStore)
-					// .setDefaultCredentialsProvider(credentialsProvider)
-					// .setProxy(new HttpHost("myproxy", 8080))
 					.setDefaultRequestConfig(defaultRequestConfig).build();
 			// //////////////////
 			// 获得HttpGet对象
@@ -97,5 +95,3 @@ category: blog
 			}
 		}
 	}
-
-
