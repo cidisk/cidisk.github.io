@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+category: accidental
+description: 生活总是多姿多彩的
+title: 主动让自己清新
 ---
 
 ## 
@@ -7,3 +11,4 @@ published: false
 
 推荐一首歌吧，给我很清新的感觉。心情不好的时候听听大有裨益吧。
 http://www.youtube.com/watch?v=6fRS1YaK1Ew
+http://www.youtube.com/watch?v=znYoE4JwQKo
