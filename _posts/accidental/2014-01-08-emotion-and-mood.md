@@ -1,5 +1,5 @@
 ---
-published: false
+published: true 
 layout: post
 category: accidental
 description: 生活总是多姿多彩的
